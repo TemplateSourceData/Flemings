@@ -1,66 +1,67 @@
 ﻿AddressLabel,Addr1,Addr2,City,State,Zip
-1301 - Scottsdale             ,6333 N. Scottsdale Road,, Scottsdale,AZ,85250
-1302 - Chandler                      ,905  N. 54th Street,, Chandler,AZ,85226
-1303 - DC Ranch               ,20753 N. Pima Road,, Scottsdale,AZ,85255
-1304 - Peoria                           ,9712 West Northern Avenue,, Peoria,AZ,85345
-1350 - Tucson                          ,6360 N Campbell Avenue,  Suite 180, Tucson,AZ,85718
-1501 - Newport Beach ,455 Newport Center Drive,, Newport Beach,CA,92660
-1504 - El Segundo          ,2301 Rosecrans Avenue,#1125, El Segundo,CA,90245
-1505 - San Diego              ,380 K Street at 4th,, San Diego,CA,92101
-1506 - Fresno                    ,639 E. Shaw Avenue,Suite 149, Fresno,CA,93710
-1507 - Woodland Hills ,6373 Topanga Canyon Boulevard,, Woodland Hills,CA,91637
-1508 - Rancho Cucamonga         ,7905 Monet Avenue,, Rancho Cucamonga,CA,91739
-1509 - Los Angeles         ,800 West Olympic Boulevard,#A135, Los Angeles,CA,90015
-1550 - Palo Alto                      ,180 El Camino Real ,Suite 2 (Stanford Shopping ),Palo Alto,CA,94304
-1551 - Walnut Creek  ,1685 Mt. Diablo Boulevard,, Walnut Creek,CA,94596
-1552 - Pasadena,179 E. Colorado Boulevard,, Pasadena,CA,91105
-1553 - Santa Clara,2762 Augustine Drive,Suite 110, Santa Clara,CA,95054
-1554 - Anaheim,1050 West Katella Avenue,, Anaheim,CA,92802
-1601 - Denver                           ,191 Inverness Drive West,, Englewood,CO,80112
-1701 - West Hartford  ,44 South Main Street,, West Hartford,CT,06107
-2001 - Tampa                         ,4322 Boy Scout Boulevard,, Tampa,FL,33607
-2002 - Naples                          ,8985 Tamiami Trail North,, Naples,FL,34108
-2003 - Sarasota Siesta,2001 Siesta Drive,, Sarasota,FL,34239
-2004 - Winter Park               ,933 Orlando Avenue,, Winter Park,FL,32789
-2005 - Coral Gables              ,2525 Ponce de Leon,, Coral Gables,FL,33134
-2006 - Sandestin                  ,600 Grand Boulevard,Suite 150, Sandestin,FL,32550
-2007 - Orlando                        ,8030 Via Dellagio Way, Bldg F, Orlando,FL,32819
-2008 - Brickell,600 Brickell Avenue,Suite 150, Miami,FL,33131
-2009 - Ft Lauderdale FL,401 E Las Olas Boulevard,Suite 280, Ft Lauderdale,FL,33301
-2013 - Sarasota UTC,8306 Tourist Center Drive,, Bradenton,FL,34201
-2101 - Atlanta                         ,4501 Old Perimeter Way,, Atlanta,GA,30346
-2201 - Birmingham AL              ,103 Summit Boulevard,, Birmingham,AL,35243
-2401 - Lincolnshire                ,960 Milwaukee Avenue,, Lincolnshire,IL,60069
-2601 - Des Moines             ,150 South Jordan Creek Parkway,, ,,
-2901 - Baton Rouge            ,7321 Corporate Boulevard,, Baton Rouge,LA,70809
-2903 - Metairie,3060 N. Causeway Bolevard,, Metarie,LA,70002
-3301 - Livonia                           ,17400 Haggerty Road,, Livonia,MI,48152
-3302 - Birmingham MI ,323 N. Old Woodward Avenue,, Birmingham,MI,48009
-3601 - St. Louis,1855 South Lindbergh,, Frontenac,MO,63131
-3801 - Omaha                           ,140 Regency Parkway,, Omaha,NE,68114
-4101 - Edgewater                 ,90 The Promenade,, Edgewater,NJ,07020
-4102 - Marlton                         ,500 Route 73 N,#1, Marlton,NJ,08053
+1301 - Scottsdale,6333 N. Scottsdale Road,,Scottsdale,AZ,85250
+1302 - Chandler,905  N. 54th Street,,Chandler,AZ,85226
+1303 - DC Ranch,20753 N. Pima Road,,Scottsdale,AZ,85255
+1304 - Peoria,9712 West Northern Avenue,,Peoria,AZ,85345
+1350 - Tucson,6360 N Campbell Avenue,  Suite 180,Tucson,AZ,85718
+1501 - Newport Beach,455 Newport Center Drive,,Newport Beach,CA,92660
+1504 - El Segundo,2301 Rosecrans Avenue,#1125, El Segundo,CA,90245
+1505 - San Diego,380 K Street at 4th,, San Diego,CA,92101
+1506 - Fresno,639 E. Shaw Avenue,Suite 149,Fresno,CA,93710
+1507 - Woodland Hills,6373 Topanga Canyon Boulevard,,Woodland Hills,CA,91637
+1508 - Rancho Cucamonga,7905 Monet Avenue,,Rancho Cucamonga,CA,91739
+1509 - Los Angeles,800 West Olympic Boulevard,#A135,Los Angeles,CA,90015
+1550 - Palo Alto,180 El Camino Real ,Suite 2 (Stanford Shopping ),Palo Alto,CA,94304
+1551 - Walnut Creek,1685 Mt. Diablo Boulevard,,Walnut Creek,CA,94596
+1552 - Pasadena,179 E. Colorado Boulevard,,Pasadena,CA,91105
+1553 - Santa Clara,2762 Augustine Drive,Suite 110,Santa Clara,CA,95054
+1554 - Anaheim,1050 West Katella Avenue,,Anaheim,CA,92802
+1601 - Denver,191 Inverness Drive West,,Englewood,CO,80112
+1701 - West Hartford  ,44 South Main Street,,West Hartford,CT,06107
+2001 - Tampa,4322 Boy Scout Boulevard,,Tampa,FL,33607
+2002 - Naples,8985 Tamiami Trail North,,Naples,FL,34108
+2003 - Sarasota Siesta,2001 Siesta Drive,,Sarasota,FL,34239
+2004 - Winter Park,933 Orlando Avenue,,Winter Park,FL,32789
+2005 - Coral Gables,2525 Ponce de Leon,,Coral Gables,FL,33134
+2006 - Sandestin,600 Grand Boulevard,Suite 150,Sandestin,FL,32550
+2007 - Orlando,8030 Via Dellagio Way,Bldg F,Orlando,FL,32819
+2008 - Brickell,600 Brickell Avenue,Suite 150,Miami,FL,33131
+2009 - Ft Lauderdale FL,401 E Las Olas Boulevard,Suite 280,Ft Lauderdale,FL,33301
+2013 - Sarasota UTC,8306 Tourist Center Drive,,Bradenton,FL,34201
+2101 - Atlanta,4501 Old Perimeter Way,,Atlanta,GA,30346
+2201 - Birmingham AL,103 Summit Boulevard,,Birmingham,AL,35243
+2401 - Lincolnshire,960 Milwaukee Avenue,,Lincolnshire,IL,60069
+2601 - Des Moines,150 South Jordan Creek Parkway,, ,,
+2901 - Baton Rouge,7321 Corporate Boulevard,,Baton Rouge,LA,70809
+2903 - Metairie,3060 N. Causeway Bolevard,,Metarie,LA,70002
+3301 - Livonia,17400 Haggerty Road,,Livonia,MI,48152
+3302 - Birmingham MI,323 N. Old Woodward Avenue,,Birmingham,MI,48009
+3601 - St. Louis,1855 South Lindbergh,,Frontenac,MO,63131
+3801 - Omaha,140 Regency Parkway,,Omaha,NE,68114
+4101 - Edgewater,90 The Promenade,,Edgewater,NJ,07020
+4102 - Marlton,500 Route 73 N,#1,Marlton,NJ,08053
 4103 - Montvale,220 Market Street,Building 2, Montvale,NJ,07645
-4201 - Summerlin                ,8721 W. Charleston Boulevard,, Las Vegas,NV,89117
-4203 - Las Vegas                   ,6515 South Las Vegas Boulevard,, Las Vegas,NV,89119
-4401 - Greensboro          ,3342 West Friendly Avenue,, Greensboro,NC,27410
-4402 - Raleigh                         ,4325 Glenwood Avenue,#5004  (Crabtree Valley Mall), Raleigh,NC,27612
-4403 - Charlotte                   ,210 East Trade Street,Suite C-110, Charlotte,NC,28202
-4602 - Akron                           ,4000 Medina Road,, Akron,OH,44333
-4603 - Dayton                        ,4432 Walnut Street,, Beavercreek,OH,45440
-4701 - Tulsa                            ,1976 Utica Square,, Tulsa,OK,74114
-4901 - Radnor                    ,555 East Lancaster Avenue,Suite 10, Radnor,PA,19087
-5001 - Providence                 ,One West Exchange Street,, Providence,RI,02903
-5301 - Nashville                     ,2525 West End,, Nashville,TN,37203
-5302 - Memphis                    ,6245 Poplar Avenue,, Memphis,TN,38119
-5303 - Knoxville                      ,11287 Parkside Drive,,  Knoxville,TN,37934
-5403 - Houston River Oaks ,2405 West Alabama Street,, Houston,TX,77098
-5404 - The Woodlands              ,1201 Woodlands Drive,Suite 305,  The Woodlands,TX,77380
-5405 - San Antonio           ,255 East Basse Road,Suite 200, San Antonio,TX,78209
-5406 - Austin Domain ,11600 Century Oaks Terrace,Suite 140, Austin ,TX,78758
-5407 - Houston T&C           ,788 W. Sam Houston North Parkway,Suite 120, Houston ,TX,77024
-5408 - Plano,7250 Dallas Parkway,Suite 110, Plano,TX,75024
-5501 - Salt Lake City     ,20 South 400 West,#2020, Salt Lake City,UT,84101
-5701 - Tysons Corner ,1960-A Chain Bridge Road,, McLean,VA,22102
-5702 - Richmond                   ,9200 Stony Point Parkway,Suite 131, Richmond,VA,23235
-5802 - Brookfield                  ,15665 W. Blumound Road,, Brookfield,WI,53005
+4201 - Summerlin,8721 W. Charleston Boulevard,,Las Vegas,NV,89117
+4203 - Las Vegas,6515 South Las Vegas Boulevard,,Las Vegas,NV,89119
+4401 - Greensboro,3342 West Friendly Avenue,,Greensboro,NC,27410
+4402 - Raleigh,4325 Glenwood Avenue,#5004 (Crabtree Valley Mall),Raleigh,NC,27612
+4403 - Charlotte,210 East Trade Street,Suite C-110,Charlotte,NC,28202
+4602 - Akron,4000 Medina Road,,Akron,OH,44333
+4603 - Dayton,4432 Walnut Street,,Beavercreek,OH,45440
+4701 - Tulsa,1976 Utica Square,,Tulsa,OK,74114
+4901 - Radnor,555 East Lancaster Avenue,Suite 10,Radnor,PA,19087
+5001 - Providence,One West Exchange Street,,Providence,RI,02903
+5301 - Nashville,2525 West End,,Nashville,TN,37203
+5302 - Memphis,6245 Poplar Avenue,,Memphis,TN,38119
+5303 - Knoxville,11287 Parkside Drive,,Knoxville,TN,37934
+5403 - Houston River Oaks ,2405 West Alabama Street,,Houston,TX,77098
+5404 - The Woodlands,1201 Woodlands Drive,Suite 305,The Woodlands,TX,77380
+5405 - San Antonio,255 East Basse Road,Suite 200,San Antonio,TX,78209
+5406 - Austin Domain,11600 Century Oaks Terrace,Suite 140,Austin ,TX,78758
+5407 - Houston T&C,788 W. Sam Houston North Parkway,Suite 120,Houston ,TX,77024
+5408 - Plano,7250 Dallas Parkway,Suite 110,Plano,TX,75024
+5501 - Salt Lake City,20 South 400 West,#2020,Salt Lake City,UT,84101
+5701 - Tysons Corner,1960-A Chain Bridge Road,,McLean,VA,22102
+5702 - Richmond,9200 Stony Point Parkway,Suite 131,Richmond,VA,23235
+5802 - Brookfield,15665 W. Blumound Road,,Brookfield,WI,53005
+
